@@ -7,13 +7,14 @@ These tasks are designed to test your debugging skills, Git knowledge, and creat
 
 📌 General Instructions
 
-All tasks must be done in your own branch (name it as yourname-task or something identifiable).
+1. Make a private repo, and add these ID's as collaborators:
+    ....
+
+2. Commit all the tasks given in the repo, and name that commit as "Initial commit"/
 
 Make commits regularly with meaningful commit messages.
 
-Where required, add answers/outputs in the PR message or in a new file.
-
-Submit everything via a Pull Request (PR).
+Where required, add answers/outputs in a new file.
 
 🔧 Tasks
 1. Debug the Code 🐞
@@ -47,6 +48,8 @@ Write the commit hash in a new file named first_commit.txt.
 Commit this file.
 
 4. Commit Removal 🧹
+
+Create a new branch
 
 Make a commit adding something (say, create a file).
 
