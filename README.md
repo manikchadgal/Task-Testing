@@ -26,9 +26,9 @@ These tasks are designed to test your debugging skills, **Git knowledge**, and *
 
 ### 1. Debug the Code (15 Points)
 
-We will provide you with a small buggy code snippet.
+We will provide you some small buggy code snippets.
 
-* Fix the code so it runs correctly.
+* Fix the codes so it runs correctly.
 * Add the **correct output** in a new file named `task1_output.txt`.
 * Commit the fixed code along with output file.
 
@@ -36,7 +36,7 @@ We will provide you with a small buggy code snippet.
 
 ### 2. Git Merge Conflict (20 Points)
 
-We will provide a branch containing a file `story.txt` with some blanks.
+We will provide a file `story.txt` with some blanks.
 
 **Your task:**
 1.  Create a new branch for this task.
