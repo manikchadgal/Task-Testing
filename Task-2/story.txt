@@ -3,8 +3,8 @@ there was a group of passionate developers
 who loved exploring open source projects.
 
 One day, they decided to create a wing called FOSS.
-Its main goal was to _____ students with
-knowledge about _____ and hands-on projects.
+its main goal was to inspire students with
+knowledge about free software principles and real-world coding
 
 Together, they organized workshops on _____
 and guided juniors in learning new tech stacks.
