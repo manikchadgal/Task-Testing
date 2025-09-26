@@ -3,11 +3,12 @@ there was a group of passionate developers
 who loved exploring open source projects.
 
 One day, they decided to create a wing called FOSS.
-Its main goal was to _____ students with
-knowledge about _____ and hands-on projects.
+Its main goal was to empower students with
+knowledge about open-source development and hands-on projects.
 
-Together, they organized workshops on _____
+Together, they organized workshops on Linux & Git
 and guided juniors in learning new tech stacks.
 
 In the end, they believed that open source
-could make the tech society _____.
+could make the tech society stronger and more connected.
+
