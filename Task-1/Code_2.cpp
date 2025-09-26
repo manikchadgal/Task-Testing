@@ -13,9 +13,9 @@ Node* reverse(Node* head) {
         Node* nxt = curr->next;
         curr->next = prev;
         prev = curr;
-        curr = nxt->next;  // BUG: advancing wrongly
+        curr = nxt->next; 
     }
-    return curr; // BUG: wrong return
+    return curr;
 }
 
 void printList(Node* head) {

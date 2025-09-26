@@ -1,4 +1,3 @@
-# buggy_regression.py
 from sklearn.linear_model import LinearRegression
 import numpy as np
 

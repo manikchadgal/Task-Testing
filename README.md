@@ -1,94 +1,94 @@
-# Task-Testing
+# FOSS Wing Selection Tasks
 
-FOSS Wing Selection Tasks 🚀
+## Welcome to the selection tasks for the FOSS Wing of our technical society, Gravity.
+These tasks are designed to test your debugging skills, **Git knowledge**, and **creativity**. Please read carefully and follow the instructions.
 
-Welcome to the selection tasks for the FOSS Wing of our tech society, Gravity.
-These tasks are designed to test your debugging skills, Git knowledge, and creativity. Please read carefully and follow the instructions.
+---
 
-📌 General Instructions
+## General Instructions
 
-1. Make a private repo, and add these ID's as collaborators:
-    ....
+1.  **Repository Setup**: Make a **private repository** on GitHub/GitLab, and immediately add these IDs as **collaborators** to grant access:
+    * `darkknight0125`
+    * `manikchadgal`
+    * `Snehalgupta-07`
 
-2. Commit all the tasks given in the repo, and name that commit as "Initial commit"/
+2.  **Initial Commit**: Commit all the initial files and instructions into your repository, and name that commit as `"Initial commit"`.
 
-Make commits regularly with meaningful commit messages.
+3.  **Commit Frequency**: Make commits regularly with **meaningful commit messages**.
 
-Where required, add answers/outputs in a new file.
+4.  **Answer Files**: Where required, add answers/outputs in a **new file**.
 
-🔧 Tasks
-1. Debug the Code 🐞
+5.  **Academic Integrity**: **Plagiarism will be heavily penalized.** All code and written work must be your own.
+
+---
+
+## Tasks and Scoring
+
+### 1. Debug the Code (15 Points)
 
 We will provide you with a small buggy code snippet.
 
-Fix the code so it runs correctly.
+* Fix the code so it runs correctly.
+* Add the **correct output** in a new file named `task1_output.txt`.
+* Commit the fixed code along with output file.
 
-Add the correct output in your PR message.
+---
 
-Commit the fixed code.
+### 2. Git Merge Conflict (20 Points)
 
-2. Git Merge Conflict ⚔️
+We will provide a branch containing a file `story.txt` with some blanks.
 
-We will provide a branch containing a file story.txt with some blanks.
+**Your task:**
+1.  Create a new branch for this task.
+2.  Fill in the blanks with a sensible continuation of the story.
+3.  Merge the new branch into your current working branch.
+4.  Resolve any merge conflicts properly, ensuring both contributions are maintained.
 
-Your task:
+---
 
-Fill in the blanks with a sensible continuation of the story.
+### 3. Find First Commit Hash (10 Points)
 
-Merge it into your branch.
+Use `git log` to find the hash of the very first commit in this repository.
 
-Resolve any merge conflicts properly.
+* Write the **full 40-character commit hash** in a new file named `first_commit.txt`.
+* Commit this file.
 
-3. Find First Commit Hash 🔑
+---
 
-Use git log to find the hash of the very first commit in this repository.
+### 4. Commit Removal (25 Points)
 
-Write the commit hash in a new file named first_commit.txt.
+1.  Create a **new branch** named `history-cleanup`.
+2.  Make a commit adding something.
+3.  Make **3 more commits** on top of it.
 
-Commit this file.
+**Now:**
+* Remove the **first commit** while keeping the later changes intact.
+* **Bonus (20 extra points)**: Ensure the original commit is completely removed from all branch history.
+* Add screenshots of earlier commit history and cleaned up commit history for bonus points and explain the approach used.
 
-4. Commit Removal 🧹
+---
 
-Create a new branch
+## Additional Task (Creative Points, out of maximum 10)
 
-Make a commit adding something (say, create a file).
+Create a **personal** `README.md` in your branch (separate from this main `README`) with the following sections:
 
-Make 3 more commits on top of it.
+1.  A short **introduction** about yourself.
+2.  Your **hobbies**.
+3.  Tech **stacks** you’ve explored till now.
+4.  Your **strengths**.
 
-Now:
+**Bonus points**: Add an appropriate meme at the end.
 
-Remove the first commit while keeping the later changes intact.
+---
 
-Bonus: Remove all traces of the initial commit entirely (history rewrite).
+## Submission
 
-Commit the cleaned-up history.
+1.  Ensure all tasks are committed to your working branch (e.g., `main` or a feature branch).
+2.  **Push** your branch to your remote private repository.
+3.  Verify that the collaborators (`darkknight0125`, `manikchadgal`, `Snehalgupta-07`) have access to view and pull your repository.
 
-✨ Additional Task
+**Total Available Points: 90 (Tasks) + 10 (Additional Task) = 100 Points.**
 
-Create a README.md in your branch (separate from this repo’s main README) with:
+---
 
-A short introduction about yourself.
-
-Your hobbies.
-
-Tech stacks you’ve explored till now.
-
-Your strengths.
-
-Bonus points: Add an appropriate meme at the end.
-
-✅ Submission
-
-Push your branch.
-
-Open a Pull Request (PR) to the main repository.
-
-Make sure your PR contains:
-
-Debugged code output (in message).
-
-Completed tasks committed in your branch.
-
-Your personal README file.
-
-⚡ That’s it! Good luck, and happy hacking! 🎉
+## That’s it! Good luck, and happy hacking!
